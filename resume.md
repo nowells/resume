@@ -68,9 +68,6 @@ Public Broadcasting Service
 -   Crafted a software development life-cycle that fit the culture of PBS and implemented it into project intake and development processes
 -   Delivered multiple successful projects resulting in the growth of technical team from 2 to 6 individuals to accommodate demand
 
-Public Broadcasting Service
----------------------------
-
 ### Manager of Digital Development
 
 2007 — Python, Django, Javascript, Backbone.js, MySQL, Xapian, Amazon EC2, Paypal Payflow Pro, GIT, SVN
@@ -78,12 +75,9 @@ Public Broadcasting Service
 -   Demonstrated leadership as technical lead; managing multiple project timelines and deliverables; working with colleagues to identify and develop solutions to operational requirements and shortcomings
 -   Negotiated with multiple companies to donate products and services to PBS resulting in recurring savings of over \$40,000 (Atlassian, ExtJS, Github, etc.)
 
-Public Broadcasting Service
----------------------------
-
 ### Senior Web Technologist
 
-2005 - 2007 — , ColdFusion, Java, Javascript, Microsoft SQL Server, Microsoft IIS, Visual Source Safe
+2005 - 2007 — ColdFusion, Java, Javascript, Microsoft SQL Server, Microsoft IIS, Visual Source Safe
 
 -   Demonstrated leadership as technical lead; managing multiple project timelines and deliverables; working with colleagues to identify and develop solutions to operational requirements and shortcomings
 -   Negotiated with multiple companies to donate products and services to PBS resulting in recurring savings of over \$40,000 (Atlassian, ExtJS, Github, etc.)

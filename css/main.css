@@ -3,9 +3,16 @@
 }
 
 .content h1 {
-  border-bottom: 1px #aaa solid;
-  padding-bottom: .75em;
+  border-bottom: 1px #ddd solid;
+  padding-bottom: .2em;
   margin-bottom: .1em;
+  margin-top: 1em;
+}
+.content h2 {
+  border-bottom: 1px #eee solid;
+  padding-bottom: .2em;
+  margin-bottom: .1em;
+  margin-top: 1em;
 }
 /*
  * SIDEBAR
