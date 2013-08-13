@@ -4,10 +4,10 @@ Nowell Strite
 Web Application Developer
 -------------------------
 
-410 Sunrise Dr
- Huntington, VT 05462
- 703-740-7552
- nowell@strite.org
+410 Sunrise Dr,
+ Huntington, VT 05462 —
+ 703-740-7552 —
+ nowell@strite.org —
  [nowell.strite.org](http://nowell.strite.org)
 
 [GitHub](https://github.com/nowells), [Twitter](https://twitter.com/nowells), [Website](http://nowell.strite.org)
@@ -94,7 +94,7 @@ Education
 University of Illinois at Urbana-Champaign
 ------------------------------------------
 
-2000 - 2004 — Dean's List 3.4 GPA
+2000 - 2004 — Dean's List, 3.4 GPA
 
 **Bachelor of Science in Computer Science, College of Engineering**
 
