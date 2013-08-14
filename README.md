@@ -79,8 +79,9 @@ Public Broadcasting Service
 
 2005 - 2007 — ColdFusion, Java, Javascript, Microsoft SQL Server, Microsoft IIS, Visual Source Safe
 
--   Demonstrated leadership as technical lead; managing multiple project timelines and deliverables; working with colleagues to identify and develop solutions to operational requirements and shortcomings
--   Negotiated with multiple companies to donate products and services to PBS resulting in recurring savings of over \$40,000 (Atlassian, ExtJS, Github, etc.)
+-   Developed and maintained existing e-commerce portal and learning management system
+-   Initiated transition to open source platform
+-   Spearheaded introduction of version control and deployment processes into the product development cycle
 
 Education
 =========

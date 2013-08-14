@@ -1,7 +1,7 @@
 .PHONY: help markdown docx pdf
 
 default:
-	make markdown docx html
+	make markdown docx
 
 help:
 	@echo "Please use \`make <target>' where <target> is one of"
