@@ -1,7 +1,7 @@
 .PHONY: help markdown docx pdf
 
 default:
-	make markdown docx pdf
+	make markdown docx pdf git
 
 help:
 	@echo "Please use \`make <target>' where <target> is one of"
@@ -23,3 +23,6 @@ docx:
 	pandoc -f html -t docx -o resume.docx index.html
 	@echo
 	@echo "Build finished. The Word Document resume is at resume.docx"
+
+git:
+	git add resume.* README.md

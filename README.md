@@ -55,7 +55,7 @@ Public Broadcasting Service
 
 ### Senior Manager of Technology Solutions
 
-2005 - 2011 — Python, Django, Javascript, Backbone.js, MySQL, SOLR, RabbitMQ, Amazon EC2, Paypal Payflow Pro, GIT
+2007 - 2011 — Python, Django, Javascript, Backbone.js, MySQL, SOLR, RabbitMQ, Amazon EC2, Paypal Payflow Pro, GIT
 
 -   Successfully launched the nationally recognized PBS LearningMedia service that powers 40+ PBS/partner educational sites
 -   Architected and developed the RESTful API service for the educational content service that runs PBS LearningMedia
