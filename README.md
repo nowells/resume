@@ -115,11 +115,14 @@ Other
 
 Test Driven Development (TDD), Agile/XP, Unit Testing, Continuous Integration, Rapid Prototyping, Database Design, A/B Testing, High Availability (HA), Distributed Processing, Load Balancing
 
-Interested? Get in Touch
-------------------------
-
-[Send Nowell an Email](mailto:nowell@strite.org)
+Work Samples
+============
 
 ![](img/bullseye.gif)
 
 Interactive D3.js Powered SVG Visualization tool (with R2D3.js fallback for IE7/8)
+
+Interested? Get in Touch
+------------------------
+
+[Send Nowell an Email](mailto:nowell@strite.org)
