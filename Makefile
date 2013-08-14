@@ -1,14 +1,13 @@
 .PHONY: help markdown docx pdf
 
 default:
-	make markdown docx
+	make markdown docx pdf
 
 help:
 	@echo "Please use \`make <target>' where <target> is one of"
 	@echo "  markdown   to make standalone Markdown file"
 	@echo "  pdf 		to make standalone PDF file"
 	@echo "  docx 		to make standalone Word Document file"
-	@echo "  html 		to make HTML file"
 
 markdown:
 	pandoc -f html -t markdown_github -o README.md index.html
@@ -16,7 +15,7 @@ markdown:
 	@echo "Build finished. The Markdown resume is at resume.md"
 
 pdf:
-	pandoc -f html -t pdf -o resume.pdf index.html
+	./bin/pdf.js
 	@echo
 	@echo "Build finished. The PDF resume is at resume.pdf"
 
