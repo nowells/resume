@@ -33,7 +33,7 @@ WiserTogether, Inc.
 
 2013 - Present — Python, Django, Javascript, D3.js, Require.js, Backbone.js, Mocha.js, Chai.js, PostgreSQL, Puppet, GIT
 
--   Led the development of an interactive D3.js powered visualization tool that powered our healthcare decision tool
+-   Led the development of an interactive D3.js powered visualization tool that powered our [healthcare decision tool](http://nowells.github.io/resume/img/bullseye.gif "Interactive D3.js Powered SVG Visualization tool (with R2D3.js fallback for IE7/8)")
 -   Developed a foundational Javascript framework for external contractors (built on on-top of Backbone.js) to ensure consistent approach to frontend javascript applications
 -   Established out automated frontend testing suite for our growing single page applications using Mocha/Chai/Karma.
 -   Spearheaded the development and Open Sourcing of several libraries used to grow our Backbone.js testing capabilities
