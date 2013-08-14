@@ -23,6 +23,39 @@ About
 -   Integrate solid communication skills and creative problem solving into every stage of development
 -   Commitment to a hiring and collaborative philosophy which creates a cohesive, dynamic and passionate development culture
 
+Skillset
+========
+
+Server-side
+-----------
+
+Python, Django, Ruby, Ruby on Rails, RESTful Webservices, SOAP & XML-RPC, NodeJS, Java, PHP, ColdFusion
+
+Client-side
+-----------
+
+Javascript, Backbone.js, Require.js, D3.js, Handlebars.js, Mocha.js, Chai.js, LESS, SCSS, CSS, HTML
+
+DevOps
+------
+
+Chef, MySQL, PostgreSQL, SOLR, Cassandra, Nginx, Apache, Vagrant, Amazon EC2, Rightscale, EngineYard
+
+Other
+-----
+
+Test Driven Development (TDD), Agile/XP, Unit Testing, Continuous Integration, Rapid Prototyping, Database Design, A/B Testing, High Availability (HA), Distributed Processing, Load Balancing
+
+Education
+=========
+
+University of Illinois at Urbana-Champaign
+------------------------------------------
+
+2000 - 2004 — Dean's List, 3.4 GPA
+
+**Bachelor of Science in Computer Science, College of Engineering**
+
 Experience
 ==========
 
@@ -114,39 +147,6 @@ Textron Lycoming
 -   Created and introduced, with continuing development and maintenance, a unique Intranet site providing executives and employees access to critical business and process information. (ASP with Oracle backend)
 -   Developed numerous custom applications and tools to solve unique client problems involving the conversion, automation, and filtering of business data (Visual Basic, PHP, ASP, Excel, Access)
 -   Created external marketing site, parts database
-
-Education
-=========
-
-University of Illinois at Urbana-Champaign
-------------------------------------------
-
-2000 - 2004 — Dean's List, 3.4 GPA
-
-**Bachelor of Science in Computer Science, College of Engineering**
-
-Skillset
-========
-
-Server-side
------------
-
-Python, Django, Ruby, Ruby on Rails, RESTful Webservices, SOAP & XML-RPC, NodeJS, Java, PHP, ColdFusion
-
-Client-side
------------
-
-Javascript, Backbone.js, Require.js, D3.js, Handlebars.js, Mocha.js, Chai.js, LESS, SCSS, CSS, HTML
-
-DevOps
-------
-
-Chef, MySQL, PostgreSQL, SOLR, Cassandra, Nginx, Apache, Vagrant, Amazon EC2, Rightscale, EngineYard
-
-Other
------
-
-Test Driven Development (TDD), Agile/XP, Unit Testing, Continuous Integration, Rapid Prototyping, Database Design, A/B Testing, High Availability (HA), Distributed Processing, Load Balancing
 
 Honors
 ======
