@@ -12,7 +12,6 @@ help:
 
 markdown:
 	pandoc -f html -t markdown_github -o README.md index.html
-	pandoc -f html -t markdown_github -o resume.md index.html
 	@echo
 	@echo "Build finished. The Markdown resume is at resume.md"
 
