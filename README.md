@@ -83,6 +83,38 @@ Public Broadcasting Service
 -   Initiated transition to open source platform
 -   Spearheaded introduction of version control and deployment processes into the product development cycle
 
+Freelance
+---------
+
+### Technical Consultant
+
+2009 - Present — Python, Javascript, GIT
+
+-   Led the training, tailoring, and implementation of the Agile process into existing teams
+-   Implemented Version Control workflows from CVS/SVN/Rsync based systems to a GIT based system with a branching model that allowed for better feature isolation, bugfixing and deployment planning
+
+BearingPoint
+------------
+
+### Systems Analyst
+
+2004 - 2005 — PL/SQL, PHP, Oracle 9iAS, HTML, CSS, Javascript
+
+-   Built a suite of enterprise web applications using PL/SQL (Oracle 9iAS)
+-   Assisted client program managers in tracking and running metrics on their planned acquisitions and existing contracts
+
+Textron Lycoming
+----------------
+
+### Freelance Web Development Consultant
+
+1998 - 2004 — Java, JSP, PHP, ASP, Visual Basic, DB2, Oracle, Microsoft IIS, HTML, CSS, Javascript
+
+-   Designed and provided ongoing development and maintenance of national award-winning dynamic Internet site to allow customers to access company resources (JSP with DB2 backend)
+-   Created and introduced, with continuing development and maintenance, a unique Intranet site providing executives and employees access to critical business and process information. (ASP with Oracle backend)
+-   Developed numerous custom applications and tools to solve unique client problems involving the conversion, automation, and filtering of business data (Visual Basic, PHP, ASP, Excel, Access)
+-   Created external marketing site, parts database
+
 Education
 =========
 
@@ -104,7 +136,7 @@ Python, Django, Ruby, Ruby on Rails, RESTful Webservices, SOAP & XML-RPC, NodeJS
 Client-side
 -----------
 
-Javascript, Backbone.js, Require.js, D3.js, Handlebars.js, Mocha.js, Chai.js, HTML/CSS
+Javascript, Backbone.js, Require.js, D3.js, Handlebars.js, Mocha.js, Chai.js, LESS, SCSS, CSS, HTML
 
 DevOps
 ------
@@ -116,14 +148,19 @@ Other
 
 Test Driven Development (TDD), Agile/XP, Unit Testing, Continuous Integration, Rapid Prototyping, Database Design, A/B Testing, High Availability (HA), Distributed Processing, Load Balancing
 
+Honors
+======
+
+-   Received PCWeek magazine’s 1999 Fast Track Technology Innovations Award for Textron Lycoming website.
+-   Rated 4th place on “The Top 100” list of world-wide manufacturing companies "deploying leading-edge technologies"
+-   Recognized for achievement with six PBS “Bravo” performance awards over four and a half years
+-   Selected to present my “Pluggable Resuable Application” Design Pattern at DjangoCon ‘09
+
 Work Samples
 ============
 
 ![](img/bullseye.gif)
 
 Interactive D3.js Powered SVG Visualization tool (with R2D3.js fallback for IE7/8)
-
-Interested? Get in Touch
-------------------------
 
 [Send Nowell an Email](mailto:nowell@strite.org)
