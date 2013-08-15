@@ -49,3 +49,6 @@ span[data-toggle="lightbox"] {
     border: 0;
     padding: 0;
 }
+.pricing-table-header {
+    min-height: 0 !important;
+}

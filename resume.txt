@@ -97,16 +97,6 @@ Public Broadcasting Service
 
 **Key URLs:** [http://pbslearningmedia.org](http://pbslearningmedia.org) — [http://pbs.org/teachers](http://pbs.org/teachers) — [http://pbs.org/teacherline](http://pbs.org/teacherline) — [http://pbs.org/peerconnection](http://pbs.org/peerconnection)
 
-Freelance
----------
-
-### Technical Consultant
-
-2009 - Present — Python, Javascript, GIT
-
--   Led the training, tailoring, and implementation of the Agile process into existing teams
--   Implemented Version Control workflows from CVS/SVN/Rsync based systems to a GIT based system with a branching model that allowed for better feature isolation, bugfixing and deployment planning
-
 BearingPoint
 ------------
 

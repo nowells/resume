@@ -118,6 +118,9 @@
   padding: 2em;
   padding-top: .01em;
 }
+.skills {
+  display: block;
+}
 
 /*
  * LIGHTBOX

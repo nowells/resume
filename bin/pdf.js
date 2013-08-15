@@ -14,9 +14,12 @@ page.open('./index.html', function () {
                     link.media = 'all';
                 }
             }
+            $(window).trigger('resize');
         });
 
-        page.render('resume.pdf');
-        phantom.exit();
+        setTimeout(function() {
+            page.render('resume.pdf');
+            phantom.exit();
+        }, 200);
     }, 200);
 });
