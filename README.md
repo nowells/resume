@@ -14,7 +14,7 @@ Key Qualifications
 
 -   Over 15 years building Web applications
 -   Proven Server-side and Client-side developer specializing in RESTful applications
--   Management skills grew out of a strong development background
+-   Management skills grown out of a strong development background
 -   Solid communication skills and creative problem solving at every stage of development
 
 Education
@@ -46,7 +46,7 @@ WiserTogether, Inc.
 
 -   Led the development of an interactive D3.js powered visualization tool that powered our [healthcare decision tool](http://nowells.github.io/resume/img/bullseye.gif "Interactive D3.js Powered SVG Visualization tool (with R2D3.js fallback for IE7/8)")
 -   Developed a foundational Javascript framework for external contractors (built on on-top of Backbone.js) to ensure consistent approach to frontend javascript applications
--   Established out automated frontend testing suite for our growing single page applications using Mocha/Chai/Karma.
+-   Established automated frontend testing suite for our growing single page applications using Mocha/Chai/Karma
 -   Spearheaded the development and Open Sourcing of several libraries used to grow our Backbone.js testing capabilities
 
 **Key URLs:** [https://mywiserhealth.com](https://mywiserhealth.com) — [https://wisertogether.com](https://wisertogether.com) — [https://healthactionlab.com](https://healthactionlab.com)
@@ -75,13 +75,10 @@ Public Broadcasting Service
 
 -   Successfully launched the nationally recognized PBS LearningMedia service that powers 40+ PBS/partner educational sites
 -   Architected and developed the RESTful API service for the educational content service that runs PBS LearningMedia
--   Designed automated deployment and scaling infrastructure to meet the growing demand of the APIs to PBS stations
--   Manage and inspire a team of 6 passionate, creative and diverse in-house developers along with multiple off site contractors
--   Coordinate all product releases and development as lead architect and developer
--   Direct projects through all phases of development (scope, requirements, use cases, design, prototyping, development and launch)
--   Originate budgeting, project scheduling and application & server architecture
--   Provide coordination with product management, program management, operations, IT and marketing/sales
--   Crafted a software development life-cycle that fit the culture of PBS and implemented it into project intake and development processes
+-   Designed an automated deployment and scaling infrastructure to meet the growing demand of the APIs to PBS stations
+-   Managed and inspired a team of 6 diverse in-house developers with multiple off site contractors
+-   Guided projects through all phases of development as lead architect and developer
+-   Handled budgeting, project scheduling and application & server architecture
 
 ### Manager of Digital Development
 
