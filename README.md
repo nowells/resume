@@ -12,7 +12,7 @@ Web Application Developer
 Key Qualifications
 ------------------
 
--   Over 15 years building Web applications
+-   Over 15 years experience building Web applications
 -   Proven Server-side and Client-side developer specializing in RESTful applications
 -   Management skills grown out of a strong development background
 -   Solid communication skills and creative problem solving at every stage of development
@@ -44,10 +44,10 @@ WiserTogether, Inc.
 
 2013 - Present — Python, Django, Javascript, D3.js, Require.js, Backbone.js, Mocha.js, Chai.js, PostgreSQL, Puppet, GIT
 
--   Led the development of an interactive D3.js powered visualization tool that powered our [healthcare decision tool](http://nowells.github.io/resume/img/bullseye.gif "Interactive D3.js Powered SVG Visualization tool (with R2D3.js fallback for IE7/8)")
--   Developed a foundational Javascript framework for external contractors (built on on-top of Backbone.js) to ensure consistent approach to frontend javascript applications
--   Established automated frontend testing suite for our growing single page applications using Mocha/Chai/Karma
--   Spearheaded the development and Open Sourcing of several libraries used to grow our Backbone.js testing capabilities
+-   Led development of interactive [visual healthcare decision support tool](http://nowell.strite.org/resume/img/bullseye.gif "Interactive D3.js Powered SVG Visualization tool (with R2D3.js fallback for IE7/8)")
+-   Created Javascript framework (built on on top of Backbone.js) to ensure consistent approach to frontend Javascript applications
+-   Established automated frontend testing suite using Mocha/Chai/Karma
+-   Spearheaded the development of several open source libraries related to expanding Backbone.js testing capabilities
 
 **Key URLs:** [https://mywiserhealth.com](https://mywiserhealth.com) — [https://wisertogether.com](https://wisertogether.com) — [https://healthactionlab.com](https://healthactionlab.com)
 
@@ -58,10 +58,10 @@ Draker Laboratories
 
 20011 - 2013 — Ruby, Ruby on Rails, Clojure, Javascript, Backbone.js, MySQL, Cassandra, Chef, GIT, i18n
 
--   Architected the core time-series data system to replace an aging MySQL solution with a highly scalable service backed by Clojure, Cassandra and RabbitMQ
--   Established an Agile process to facilitate a rapid development and release cycle that significantly increased customer and company responsiveness and transition us from a release every few months, to multiple releases a week
--   Successfully designed, developed, and led the technical merger of our product with our acquired company over the course of two months in order to differentiate us at our largest industry trade show in an increasingly dense competitive landscape
--   Oversaw and negotiated a software staff increase as well as a company merger from five software developers to a fifteen member software development team consisting of QA, Design, DevOps, and Developers
+-   Architected core time-series data system to replace an aging MySQL solution with a highly scalable service backed by Clojure, Cassandra and RabbitMQ
+-   Established Agile process to facilitate rapid development and release cycle from a release every few months to multiple releases a week
+-   Successfully designed, developed, and led the technical merger of our product with an acquired company
+-   Oversaw and negotiated software staff increase as well as company merger from five software developers to a fifteen member software development team consisting of QA, Design, DevOps, and Developers
 -   Automated the internationalization (i18n) of the web application into Japanese, allowing for seamless extension to alternate languages
 
 **Key URLs:** [https://solarems.net](https://solarems.net) — [http://www.drakerenergy.com/](http://www.drakerenergy.com/)
@@ -78,13 +78,14 @@ Public Broadcasting Service
 -   Designed an automated deployment and scaling infrastructure to meet the growing demand of the APIs to PBS stations
 -   Managed and inspired a team of 6 diverse in-house developers with multiple off site contractors
 -   Guided projects through all phases of development as lead architect and developer
--   Handled budgeting, project scheduling and application & server architecture
+-   Handled budgeting, project scheduling, application and server architecture
 
 ### Manager of Digital Development
 
 2007 — Python, Django, Javascript, Backbone.js, MySQL, Xapian, Amazon EC2, Paypal Payflow Pro, GIT, SVN
 
--   Demonstrated leadership as technical lead; managing multiple project timelines and deliverables; working with colleagues to identify and develop solutions to operational requirements and shortcomings
+-   Managed multiple project timelines and deliverables
+-   Worked with colleagues to identify and develop solutions to operational requirements and shortcomings
 -   Negotiated with multiple companies to donate products and services to PBS resulting in recurring savings of over \$40,000 (Atlassian, ExtJS, Github, etc.)
 
 ### Senior Web Technologist
@@ -92,7 +93,7 @@ Public Broadcasting Service
 2005 - 2007 — ColdFusion, Java, Javascript, Microsoft SQL Server, Microsoft IIS, Visual Source Safe
 
 -   Developed and maintained existing e-commerce portal and learning management system
--   Initiated transition to open source platform
+-   Initiated transition to open source course platform
 -   Spearheaded introduction of version control and deployment processes into the product development cycle
 
 **Key URLs:** [http://pbslearningmedia.org](http://pbslearningmedia.org) — [http://pbs.org/teachers](http://pbs.org/teachers) — [http://pbs.org/teacherline](http://pbs.org/teacherline) — [http://pbs.org/peerconnection](http://pbs.org/peerconnection)
@@ -114,9 +115,9 @@ Textron Lycoming
 
 1998 - 2004 — Java, JSP, PHP, ASP, Visual Basic, DB2, Oracle, Microsoft IIS, HTML, CSS, Javascript
 
--   Designed and provided ongoing development and maintenance of national award-winning dynamic Internet site to allow customers to access company resources (JSP with DB2 backend)
--   Created and introduced, with continuing development and maintenance, a unique Intranet site providing executives and employees access to critical business and process information. (ASP with Oracle backend)
--   Developed numerous custom applications and tools to solve unique client problems involving the conversion, automation, and filtering of business data (Visual Basic, PHP, ASP, Excel, Access)
+-   Designed and provided ongoing development and maintenance of national award-winning dynamic Web site
+-   Created a unique Intranet site providing executives and employees access to critical business and process information
+-   Developed numerous custom applications and tools to solve unique client problems involving the conversion, automation, and filtering of business data
 -   Created external marketing site, parts database
 
 Work Samples
