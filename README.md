@@ -71,7 +71,7 @@ Public Broadcasting Service
 
 ### Senior Manager of Technology Solutions
 
-2007 - 2011 — Python, Django, Javascript, Backbone.js, MySQL, SOLR, RabbitMQ, Amazon EC2, Paypal Payflow Pro, GIT
+2007 - 2011 — Python, Django, Javascript, Backbone.js, MySQL, SOLR, RabbitMQ, Amazon EC2, GIT, Paypal Payflow Pro
 
 -   Successfully launched the nationally recognized PBS LearningMedia service that powers 40+ PBS/partner educational sites
 -   Architected and developed the RESTful API service for the educational content service that runs PBS LearningMedia
@@ -82,7 +82,7 @@ Public Broadcasting Service
 
 ### Manager of Digital Development
 
-2007 — Python, Django, Javascript, Backbone.js, MySQL, Xapian, Amazon EC2, Paypal Payflow Pro, GIT, SVN
+2007 — Python, Django, Javascript, Backbone.js, MySQL, Xapian, Amazon EC2, GIT, SVN, Paypal Payflow Pro
 
 -   Managed multiple project timelines and deliverables
 -   Worked with colleagues to identify and develop solutions to operational requirements and shortcomings
@@ -113,7 +113,7 @@ Textron Lycoming
 
 ### Freelance Web Development Consultant
 
-1998 - 2004 — Java, JSP, PHP, ASP, Visual Basic, DB2, Oracle, Microsoft IIS, HTML, CSS, Javascript
+1998 - 2004 — Java, JSP, PHP, ASP, Visual Basic, HTML, CSS, Javascript, DB2, Oracle, Microsoft IIS
 
 -   Designed and provided ongoing development and maintenance of national award-winning dynamic Web site
 -   Created a unique Intranet site providing executives and employees access to critical business and process information
