@@ -113,6 +113,20 @@ footer {
 /*
  * SKILLSETS
  */
+.pricing-table-header strong {
+    display: block;
+    border-bottom: 1px #eee solid;
+    padding-bottom: .2em;
+    margin-bottom: .1em;
+    margin-top: 1em;
+    font-size: 32px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    line-height: 1.1;
+}
+.pricing-table-header .post-meta {
+    display: block;
+}
 #skillset .row .pricing-table-header {
   background: rgb(55, 83, 168);
   color: #fff;

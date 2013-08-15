@@ -4,17 +4,15 @@ Nowell Strite
 Web Application Developer
 -------------------------
 
-410 Sunrise Dr,
- Huntington, VT 05462 —
- 703-740-7552 —
- nowell@strite.org —
- [nowell.strite.org](http://nowell.strite.org)
+703-740-7552 —
+ nowell@strite.org
 
 [GitHub](https://github.com/nowells), [Twitter](https://twitter.com/nowells), [Website](http://nowell.strite.org)
 
-About
------
+Key Qualifications
+------------------
 
+-   15 years building Web applications
 -   Proven developer with extensive "managing developer" experience leading the architecture and development of core products
 -   Embrace open source technology and the collaborative and iterative development approach that it inspires
 -   Employ an Agile based software development approach with a healthy recognition that interpretation is always necessary to craft a methodology that fits an organization's culture
@@ -23,38 +21,22 @@ About
 -   Integrate solid communication skills and creative problem solving into every stage of development
 -   Commitment to a hiring and collaborative philosophy which creates a cohesive, dynamic and passionate development culture
 
+Education
+---------
+
+**Bachelor of Science, University of Illinois at Urbana-Champaign — 2004**
+ Computer Science, College of Engineering
+
 Skillset
 ========
 
-Server-side
------------
+**Server-side:** Python, Django, Ruby, Ruby on Rails, Clojure, RESTful Webservices, SOAP & XML-RPC, NodeJS, Java, PHP, ColdFusion
 
-Python, Django, Ruby, Ruby on Rails, RESTful Webservices, SOAP & XML-RPC, NodeJS, Java, PHP, ColdFusion
+**Client-side:** Javascript, Backbone.js, Require.js, D3.js, Handlebars.js, Mocha.js, Chai.js, LESS, SCSS, CSS, HTML
 
-Client-side
------------
+**DevOps:** Chef, MySQL, PostgreSQL, SOLR, Cassandra, Nginx, Apache, Vagrant, Amazon EC2, Rightscale, EngineYard
 
-Javascript, Backbone.js, Require.js, D3.js, Handlebars.js, Mocha.js, Chai.js, LESS, SCSS, CSS, HTML
-
-DevOps
-------
-
-Chef, MySQL, PostgreSQL, SOLR, Cassandra, Nginx, Apache, Vagrant, Amazon EC2, Rightscale, EngineYard
-
-Other
------
-
-Test Driven Development (TDD), Agile/XP, Unit Testing, Continuous Integration, Rapid Prototyping, Database Design, A/B Testing, High Availability (HA), Distributed Processing, Load Balancing
-
-Education
-=========
-
-University of Illinois at Urbana-Champaign
-------------------------------------------
-
-2000 - 2004 — Dean's List, 3.4 GPA
-
-**Bachelor of Science in Computer Science, College of Engineering**
+**Other:** Test Driven Development (TDD), Agile/XP, Unit Testing, Continuous Integration, Rapid Prototyping, Database Design, A/B Testing, High Availability (HA), Distributed Processing, Load Balancing
 
 Experience
 ==========
@@ -71,17 +53,22 @@ WiserTogether, Inc.
 -   Established out automated frontend testing suite for our growing single page applications using Mocha/Chai/Karma.
 -   Spearheaded the development and Open Sourcing of several libraries used to grow our Backbone.js testing capabilities
 
+**Key URLs:** [https://mywiserhealth.com](https://mywiserhealth.com) — [https://wisertogether.com](https://wisertogether.com) — [https://healthactionlab.com](https://healthactionlab.com)
+
 Draker Laboratories
 -------------------
 
 ### Director of Software Engineering
 
-20011 - 2013 — Ruby, Ruby on Rails, Javascript, Backbone.js, MySQL, Cassandra, Chef, GIT
+20011 - 2013 — Ruby, Ruby on Rails, Clojure, Javascript, Backbone.js, MySQL, Cassandra, Chef, GIT i18n
 
 -   Architected the core time-series data system to replace an aging MySQL solution with a highly scalable service backed by Clojure, Cassandra and RabbitMQ
 -   Established an Agile process to facilitate a rapid development and release cycle that significantly increased customer and company responsiveness and transition us from a release every few months, to multiple releases a week
 -   Successfully designed, developed, and led the technical merger of our product with our acquired company over the course of two months in order to differentiate us at our largest industry trade show in an increasingly dense competitive landscape
 -   Oversaw and negotiated a software staff increase as well as a company merger from five software developers to a fifteen member software development team consisting of QA, Design, DevOps, and Developers
+-   Automated the internationalization (i18n) of the web application into Japanese, allowing for seamless extension to alternate languages
+
+**Key URLs:** [https://solarems.net](https://solarems.net) — [http://www.drakerenergy.com/](http://www.drakerenergy.com/)
 
 Public Broadcasting Service
 ---------------------------
@@ -92,14 +79,13 @@ Public Broadcasting Service
 
 -   Successfully launched the nationally recognized PBS LearningMedia service that powers 40+ PBS/partner educational sites
 -   Architected and developed the RESTful API service for the educational content service that runs PBS LearningMedia
--   Designed and converted our system architecture to a auto scaling, load balanced clusters with a configuration management system to allow for automated/repeatable deployment of our production/staging/development environments
--   Manage and inspire a team of 5 passionate, creative and diverse in-house developers along with multiple off site contractors
+-   Designed automated deployment and scaling infrastructure to meet the growing demand of the APIs to PBS stations
+-   Manage and inspire a team of 6 passionate, creative and diverse in-house developers along with multiple off site contractors
 -   Coordinate all product releases and development as lead architect and developer
 -   Direct projects through all phases of development (scope, requirements, use cases, design, prototyping, development and launch)
 -   Originate budgeting, project scheduling and application & server architecture
 -   Provide coordination with product management, program management, operations, IT and marketing/sales
 -   Crafted a software development life-cycle that fit the culture of PBS and implemented it into project intake and development processes
--   Delivered multiple successful projects resulting in the growth of technical team from 2 to 6 individuals to accommodate demand
 
 ### Manager of Digital Development
 
@@ -147,14 +133,6 @@ Textron Lycoming
 -   Created and introduced, with continuing development and maintenance, a unique Intranet site providing executives and employees access to critical business and process information. (ASP with Oracle backend)
 -   Developed numerous custom applications and tools to solve unique client problems involving the conversion, automation, and filtering of business data (Visual Basic, PHP, ASP, Excel, Access)
 -   Created external marketing site, parts database
-
-Honors
-======
-
--   Received PCWeek magazine’s 1999 Fast Track Technology Innovations Award for Textron Lycoming website.
--   Rated 4th place on “The Top 100” list of world-wide manufacturing companies "deploying leading-edge technologies"
--   Recognized for achievement with six PBS “Bravo” performance awards over four and a half years
--   Selected to present my “Pluggable Resuable Application” Design Pattern at DjangoCon ‘09
 
 Work Samples
 ============
