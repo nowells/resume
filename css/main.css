@@ -10,9 +10,6 @@
   margin-bottom: .1em;
   margin-top: 1em;
 }
-footer {
-  padding: 2em;
-}
 /*
  * SIDEBAR
  */
@@ -135,4 +132,7 @@ span[data-toggle="lightbox"] {
 }
 span[data-toggle="lightbox"]:hover, span[data-toggle="lightbox"]:focus {
   text-decoration: underline;
+}
+.content {
+    padding-bottom: 2em;
 }

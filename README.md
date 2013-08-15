@@ -12,14 +12,10 @@ Web Application Developer
 Key Qualifications
 ------------------
 
--   15 years building Web applications
--   Proven developer with extensive "managing developer" experience leading the architecture and development of core products
--   Embrace open source technology and the collaborative and iterative development approach that it inspires
--   Employ an Agile based software development approach with a healthy recognition that interpretation is always necessary to craft a methodology that fits an organization's culture
--   Proven ability to lead conversations with internal and external clients to extract business requirements and translate/distill stories into elegant and robust technical solutions
--   Strong application architect and developer, leveraging rapid prototyping and iterative development
--   Integrate solid communication skills and creative problem solving into every stage of development
--   Commitment to a hiring and collaborative philosophy which creates a cohesive, dynamic and passionate development culture
+-   Over 15 years building Web applications
+-   Proven Server-side and Client-side developer specializing in RESTful applications
+-   Management skills grew out of a strong development background
+-   Solid communication skills and creative problem solving at every stage of development
 
 Education
 ---------
@@ -30,13 +26,13 @@ Education
 Skillset
 ========
 
-**Server-side:** Python, Django, Ruby, Ruby on Rails, Clojure, RESTful Webservices, SOAP & XML-RPC, NodeJS, Java, PHP, ColdFusion
+**Server-side:** Python, Django, Ruby, Ruby on Rails, Clojure, RESTful APIs, SOAP & XML-RPC, NodeJS, Java, PHP, ColdFusion
 
 **Client-side:** Javascript, Backbone.js, Require.js, D3.js, Handlebars.js, Mocha.js, Chai.js, LESS, SCSS, CSS, HTML
 
 **DevOps:** Chef, MySQL, PostgreSQL, SOLR, Cassandra, Nginx, Apache, Vagrant, Amazon EC2, Rightscale, EngineYard
 
-**Other:** Test Driven Development (TDD), Agile/XP, Unit Testing, Continuous Integration, Rapid Prototyping, Database Design, A/B Testing, High Availability (HA), Distributed Processing, Load Balancing
+**Other:** Test Driven Development (TDD), Agile/XP, Unit Testing, Continuous Integration, Rapid Prototyping, Database Design, A/B Testing, High Availability, Distributed Processing, Internationalization (i18n), Load Balancing
 
 Experience
 ==========
@@ -60,7 +56,7 @@ Draker Laboratories
 
 ### Director of Software Engineering
 
-20011 - 2013 — Ruby, Ruby on Rails, Clojure, Javascript, Backbone.js, MySQL, Cassandra, Chef, GIT i18n
+20011 - 2013 — Ruby, Ruby on Rails, Clojure, Javascript, Backbone.js, MySQL, Cassandra, Chef, GIT, i18n
 
 -   Architected the core time-series data system to replace an aging MySQL solution with a highly scalable service backed by Clojure, Cassandra and RabbitMQ
 -   Established an Agile process to facilitate a rapid development and release cycle that significantly increased customer and company responsiveness and transition us from a release every few months, to multiple releases a week
@@ -101,6 +97,8 @@ Public Broadcasting Service
 -   Developed and maintained existing e-commerce portal and learning management system
 -   Initiated transition to open source platform
 -   Spearheaded introduction of version control and deployment processes into the product development cycle
+
+**Key URLs:** [http://pbslearningmedia.org](http://pbslearningmedia.org) — [http://pbs.org/teachers](http://pbs.org/teachers) — [http://pbs.org/teacherline](http://pbs.org/teacherline) — [http://pbs.org/peerconnection](http://pbs.org/peerconnection)
 
 Freelance
 ---------
