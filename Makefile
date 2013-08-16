@@ -27,6 +27,7 @@ docx:
 
 txt:
 	pandoc -f html -t markdown_github -o resume.txt index.html
+	sed -i '' 's/—/--/g' resume.txt
 	@echo
 	@echo "Build finished. The TXT resume is at resume.docx"
 
