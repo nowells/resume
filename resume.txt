@@ -45,23 +45,23 @@ WiserTogether, Inc.
 2013 - Present -- Python, Django, Javascript, D3.js, Require.js, Backbone.js, Mocha.js, Chai.js, PostgreSQL, Puppet, GIT
 
 -   Led development of interactive [visual healthcare decision support tool](http://nowell.strite.org/resume/img/bullseye.gif "Interactive D3.js Powered SVG Visualization tool (with R2D3.js fallback for IE7/8)")
--   Created Javascript framework (built on on top of Backbone.js) to ensure consistent approach to frontend Javascript applications
+-   Created Javascript framework (built on top of Backbone.js) to ensure consistent approach to frontend Javascript applications
 -   Established automated frontend testing suite using Mocha/Chai/Karma
 -   Spearheaded the development of several open source libraries related to expanding Backbone.js testing capabilities
 
-**Key URLs:** [https://mywiserhealth.com](https://mywiserhealth.com) -- [https://wisertogether.com](https://wisertogether.com) -- [https://healthactionlab.com](https://healthactionlab.com)
+**Key URLs:** [https://mywiserhealth.com](https://mywiserhealth.com) -- [http://wisertogether.com](http://wisertogether.com) -- [https://healthactionlab.com](https://healthactionlab.com)
 
 Draker Laboratories
 -------------------
 
 ### Director of Software Engineering
 
-20011 - 2013 -- Ruby, Ruby on Rails, Clojure, Javascript, Backbone.js, MySQL, Cassandra, Chef, GIT, i18n
+2011 - 2013 -- Ruby, Ruby on Rails, Clojure, Javascript, Backbone.js, MySQL, Cassandra, Chef, GIT, i18n
 
 -   Architected core time-series data system to replace an aging MySQL solution with a highly scalable service backed by Clojure, Cassandra and RabbitMQ
 -   Established Agile process to facilitate rapid development and release cycle from a release every few months to multiple releases a week
 -   Successfully designed, developed, and led the technical merger of our product with an acquired company
--   Oversaw and negotiated software staff increase as well as company merger from five software developers to a fifteen member software development team consisting of QA, Design, DevOps, and Developers
+-   Oversaw and negotiated software staff increases as well as company merger from five software developers to a fifteen member software development team consisting of QA, Design, DevOps, and Developers
 -   Automated the internationalization (i18n) of the web application into Japanese, allowing for seamless extension to alternate languages
 
 **Key URLs:** [https://solarems.net](https://solarems.net) -- [http://www.drakerenergy.com/](http://www.drakerenergy.com/)
@@ -115,10 +115,11 @@ Textron Lycoming
 
 1998 - 2004 -- Java, JSP, PHP, ASP, Visual Basic, HTML, CSS, Javascript, DB2, Oracle, Microsoft IIS
 
--   Designed and provided ongoing development and maintenance of national award-winning dynamic Web site
+-   Worked throughout high school and college, onsite and telecommuting, with the Information Technology Department
+-   Designed and provided ongoing development and maintenance of company's dynamic website, which won a national design award
 -   Created a unique Intranet site providing executives and employees access to critical business and process information
 -   Developed numerous custom applications and tools to solve unique client problems involving the conversion, automation, and filtering of business data
--   Created external marketing site, parts database
+-   Created external marketing site for aircraft engine parts database
 
 Work Samples
 ============
