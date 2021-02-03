@@ -10,8 +10,8 @@ help:
 	@echo "  docx 		to make standalone Word Document file"
 
 markdown:
-	pandoc -f html -t markdown_github -o README.md resume.html
-	pandoc -f html -t markdown_github -o resume.md resume.html
+	pandoc -f html -t gfm -o README.md resume.html
+	pandoc -f html -t gfm -o resume.md resume.html
 	@echo
 	@echo "Build finished. The Markdown resume is at resume.md"
 
